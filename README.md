@@ -15,3 +15,5 @@ The Human Protein Atlas is an initiative based in Sweden aimed at mapping protei
 3) Public HPA images available to download in ​ the notebook​ .
 4) The 16-bit version of the training images are available ​ here​ .
 5) Each sample consists of four files, with every file representing a different filter on the subcellular protein patterns represented by the sample. The format is [filename]_[filter color].png for the PNG files. Colors are red for microtubule channels, blue for nuclei channels,yellow for Endoplasmic Reticulum (ER) channels, and green for protein of interest, as mentioned.
+
+.
